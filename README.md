@@ -8,7 +8,7 @@ O **Atende+** é uma plataforma moderna projetada para simplificar o agendamento
 ## Diferenciais do Produto
 - **Experiência Humanizada:** Interface limpa, acolhedora e totalmente em português (pt-BR).
 - **Inteligência de Dados:** Integração com ViaCEP para endereços e OpenWeather para previsão do tempo no dia da consulta.
-- **Painel Administrativo Robusto:** Controle total sobre a agenda da clínica, permitindo confirmar, concluir ou excluir agendamentos. (usuário: admin@atendemain.com / senha: senha)
+- **Painel Administrativo Robusto:** Controle total sobre a agenda da clínica, permitindo confirmar, concluir ou excluir agendamentos. (usuário: admin@atendemais.com / senha: senha)
 - **Sessão Persistente:** Segurança com JWT e persistência de estado para evitar reconexões desnecessárias.
 
 ---
@@ -99,7 +99,7 @@ Acesse o sistema em: `http://localhost:5173`
 - Tags de status visual: `Agendada`, `Confirmada`, `Cancelada` e `Concluída`.
 
 ## Deploy
-
+https://vue-express-ts-atende-plus-uva.vercel.app/
 ---
 
 ### Contexto Acadêmico
